@@ -17,6 +17,8 @@
         "hangman1":"hangman_Ans1",
         "hangman2":"hangman_Ans2",
         "repeated":"repeated",
-        "accumulate":"accumulate"
+        "accumulate":"accumulate",
+        "factorial": "factorial", 
+        "perimeter": "perimeter"
     }
 }
